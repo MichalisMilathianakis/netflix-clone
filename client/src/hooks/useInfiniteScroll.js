@@ -15,7 +15,7 @@ export default function useInfiniteScroll(loadMore, enabled = true, threshold = 
         firedRef.current = true;
         loadMore();
       }
-      if (ratio < threshold) firedRef.current = false; // reset for next loop
+      if (ratio < threshold) firedRef.current = false; 
     }, 250);
 
     window.addEventListener("scroll", onScroll);
