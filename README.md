@@ -7,7 +7,7 @@ Clone → install → run. No extra build tools or API proxy are required.
 ⚡ Quick Start
 
 # 1. Clone the repo
-$ git clone https://github.com/YOUR_USER/netflix-clone.git
+$ git clone https://github.com/MichalisMilathianakis/netflix-clone.git
 $ cd netflix-clone
 
 # 2. Install dependencies (client only)
