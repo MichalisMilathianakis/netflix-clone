@@ -1,7 +1,5 @@
 Netflix Clone
 
-A lightweight Netflix‑style SPA built with React + Vite, Tailwind (Play CDN) and the TMDB API.
-
 🖥️ Demo
 
 Clone → install → run. No extra build tools or API proxy are required.
