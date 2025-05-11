@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm --prefix client run dev\" \"npm --prefix server run dev\""
+  },
+  "dependencies": {
+    "react-player": "^2.16.0"
+  }
+}
